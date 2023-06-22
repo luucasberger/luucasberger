@@ -1,16 +1,19 @@
-### Hi there 👋
+# Lucas Berger
+## Full Stack Developer, Very Good Ventures
 
-<!--
-**luucasberger/luucasberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
+[![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-Here are some ideas to get you started:
+[logo_black]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_black.png#gh-light-mode-only
+[logo_white]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_white.png#gh-dark-mode-only
+[very_good_ventures_link_dark]: https://verygood.ventures#gh-dark-mode-only
+[very_good_ventures_link_light]: https://verygood.ventures#gh-light-mode-only
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+My name is Lucas, and I am a Full Stack Developer at [Very Good Ventures](https://verygood.ventures)
+
+- 🔭  I’m currently working on [Very Good Ventures](https://github.com/VGVentures)
+- 👯  I’m looking to collaborate on [Flutter](https://flutter.dev)
+- 💬  Ask me about building Flutter apps or joining our team
+- 📫  How to reach me: https://verygood.ventures/contact
